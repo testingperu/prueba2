@@ -1,5 +1,5 @@
 <?php
 
-echo "Esto es una prueba con git, prueba 2";
+echo "Esto es una prueba con git, Alea jacta est";
 
 ?>
